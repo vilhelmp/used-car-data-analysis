@@ -472,7 +472,7 @@ def translate_type_of_car(type_of_car):
         return "hatchback"
     elif type_of_car == "Småbil":
         return "small"
-    elif type_of_car == "Cap":
+    elif type_of_car == "Cab":
         return "convertible"
     elif type_of_car == "Familjebuss":
         return "van"
